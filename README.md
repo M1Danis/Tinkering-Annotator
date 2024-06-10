@@ -1,6 +1,8 @@
 # Web Annotator
 
-Extensiojn contains two tabs: one for notes and another to change color 
+Extension contains two tabs: one for notes and another to change color 
+Notes tab contain option to add notes, added notes and highlighted text 
+Color change tab contain color changing option by changing color
 
 Description of features of annotator are mmentioned below:
 ## Hilight Content

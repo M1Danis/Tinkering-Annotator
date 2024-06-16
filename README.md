@@ -23,3 +23,12 @@ Chrome Storage API is used to store it and then reload storage of current url wh
 Design of extension is well responsize, implemented using css
 
 
+# About code
+Using medium-highlighter.js, an html element <medium-highlighter> is created which is used to highlight text
+The tag is used in content.js file
+
+In content.js get selected text and hightlight the part first by extracting it, then readding it after changing its background color and then storing it in chrome local storage for persistance
+
+Rest css file is used for styling and other work
+
+
